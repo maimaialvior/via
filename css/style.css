@@ -72,8 +72,8 @@ body {
   left: 0;
   width: 0px;
   height: 50px;
-  background: -webkit-gradient (linear, left top, left bottom, from(transparent), color-stop(transparent), to(#6b0101));
-  background: linear-gradient(to bottom, transparent, transparent, #6b0101);
+  background: -webkit-gradient (linear, left top, left bottom, from(transparent), color-stop(transparent), to(#ffccb6));
+  background: linear-gradient(to bottom, transparent, transparent, #ffccb6);
 }
 
 .sub_page .hero_area {
@@ -98,7 +98,7 @@ body {
   right: 0;
   width: 62%;
   height: 55px;
-  background: #6d3e3e;
+  background: #ffccb6;
   z-index: 1;
   -webkit-clip-path: polygon(50% 0%, 100% 0, 100% 100%, 8% 100%, 0 0);
           clip-path: polygon(50% 0%, 100% 0, 100% 100%, 8% 100%, 0 0);
@@ -462,7 +462,7 @@ a:focus {
   border: none;
   width: 1.5px;
   height: 125px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .about_section .about_container .detail-box a {
